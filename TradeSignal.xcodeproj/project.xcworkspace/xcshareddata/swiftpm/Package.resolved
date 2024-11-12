@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "lottie-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/airbnb/lottie-ios.git",
+      "state" : {
+        "revision" : "fe4c6fe3a0aa66cdeb51d549623c82ca9704b9a5",
+        "version" : "4.5.0"
+      }
+    },
+    {
+      "identity" : "sulogger",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/snnlsy/SULogger.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "b558150cac13ec6bd1088bf6634496f801d8f76a"
+      }
+    },
+    {
+      "identity" : "sunetworking",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/snnlsy/SUNetworking.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "46a2aa14390245ea5f31a16928a1faad0f8d0deb"
+      }
+    },
+    {
+      "identity" : "tagcloud",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/yarspirin/TagCloud.git",
+      "state" : {
+        "revision" : "81c1019541c2748cfecff4eabc05ca0bdcaa3713",
+        "version" : "1.0.4"
+      }
+    }
+  ],
+  "version" : 2
+}

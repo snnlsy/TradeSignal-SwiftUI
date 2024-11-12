@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  TradeSignal
+
+  Created by Sinan Ulusoy on 24.05.2024.
+  
+*/
+
+"sendSignal.title" = "Sinyal Gönder";
+"marketplace.title" = "Pazaryeri";
+"signals.title" = "Sinyal";
+"profile.title" = "Profil";
